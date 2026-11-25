@@ -29,4 +29,4 @@ git branch -M main
 git remote add origin https://github.com/TU-USUARIO/boda.git
 git push -u origin main
 ```
-GitHub → **Settings → Pages → Source: GitHub Actions**. Quedará en `https://TU-USUARIO.github.io/boda/`.
+GitHub → **Settings → Pages → Source: GitHub Actions**. Quedará en `https://TU-USUARIO.github.io/boda/`
